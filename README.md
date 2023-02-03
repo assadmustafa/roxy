@@ -1,3 +1,3 @@
 # Roxy: Smart Truth And Dare Ball
-With PCB Technology
+With PCB Embedded Technology
 Written in C Programming language
